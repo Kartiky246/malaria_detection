@@ -11,12 +11,7 @@ Initial UI of the web app look like this
 
 
 
-
-
 Below pic shows the results for an infected cell image
-
-
-![](project2/images/4.png)
 
 
 
